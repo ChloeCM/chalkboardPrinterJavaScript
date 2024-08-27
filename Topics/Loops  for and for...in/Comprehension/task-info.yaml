@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: It runs endlessly long
+  - text: It runs endlessly fast
+  - text: It runs an infinite number of times
+  - text: It consumes an infinite amount of energy
+files:
+  - name: main.js
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9122#comment
+status: Solved
+record: -1
+local_check: false
